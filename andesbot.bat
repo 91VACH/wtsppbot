@@ -1,0 +1,1 @@
+node C:\Users\51980\Documents\WhatsappBot\index.js
